@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marie-rgb
 - 👀 I’m interested in software engineering and networking
-- 🌱 I’m currently learning the basics of javascript programming language
+- 🌱 I’m currently learning Python programming language
 - 💞️ I’m looking to collaborate on web development apps and programming challenges
 - 📫 How to reach me would be here on Github
 
